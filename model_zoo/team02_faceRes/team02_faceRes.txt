@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1aFuFcdevT-oq-kpvDHSbrVHhDt41sVsi?usp=sharing
+
+git clone https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers  models--stabilityai--stable-diffusion-3-medium-diffusers
