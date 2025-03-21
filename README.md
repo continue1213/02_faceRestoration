@@ -1,11 +1,7 @@
 # 02_faceRestoration
 
-<pre>
-
  <pre>
-
 Requirements:
-
 conda env create -f environment.yml
 
  </pre>
