@@ -25,7 +25,7 @@ def select_model(args, device):
         name = f"{model_id:02}_faceRes"
         from models.team02_faceRes.combined_inference import run_inference
         #绝对路径看情况进行修改
-        model_path=os.path.join("/data/t2f/nitre2025_zssr/model_zoo/", 'team02_faceRes')
+        model_path=os.path.join("model_zoo", 'team02_faceRes')
 
         model_func=run_inference
     elif model_id==200:
